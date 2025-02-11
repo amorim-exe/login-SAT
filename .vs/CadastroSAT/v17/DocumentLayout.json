@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projetos\\SAT\\CadastroSAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62BC72C-872F-442B-9C59-EF72849CDD78}|cadastrosat.client\\cadastrosat.client.esproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D62BC72C-872F-442B-9C59-EF72849CDD78}|cadastrosat.client\\cadastrosat.client.esproj|solutionrelative:cadastrosat.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62BC72C-872F-442B-9C59-EF72849CDD78}|cadastrosat.client\\cadastrosat.client.esproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62BC72C-872F-442B-9C59-EF72849CDD78}|cadastrosat.client\\cadastrosat.client.esproj|solutionrelative:cadastrosat.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|solutionrelative:cadastrosat.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|solutionrelative:cadastrosat.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.server\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|solutionrelative:cadastrosat.server\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.server\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|solutionrelative:cadastrosat.server\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|solutionrelative:cadastrosat.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|solutionrelative:cadastrosat.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|d:\\projetos\\sat\\cadastrosat\\cadastrosat.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD9C011-6B00-47A1-A79F-5623E6F30ED3}|CadastroSAT.Server\\CadastroSAT.Server.csproj|solutionrelative:cadastrosat.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CadastroSAT.Server\\Models\\User.cs",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Models\\User.cs",
+              "RelativeToolTip": "CadastroSAT.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:30:11.677Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\cadastrosat.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "cadastrosat.client\\src\\app\\app.component.ts",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\cadastrosat.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "cadastrosat.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-11T14:44:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\cadastrosat.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "cadastrosat.client\\src\\app\\app.component.html",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\cadastrosat.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "cadastrosat.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-11T14:44:21.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "CadastroSAT.Server\\appsettings.json",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\appsettings.json",
+              "RelativeToolTip": "CadastroSAT.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T14:41:17.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CadastroSAT.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CadastroSAT.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:39:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "CadastroSAT.Server\\Models\\Login.cs",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Models\\Login.cs",
+              "RelativeToolTip": "CadastroSAT.Server\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:33:14.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "CadastroSAT.Server\\Models\\Register.cs",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Models\\Register.cs",
+              "RelativeToolTip": "CadastroSAT.Server\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:32:19.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CadastroSAT.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CadastroSAT.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:29:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CadastroSAT.Server\\Program.cs",
+              "ToolTip": "D:\\projetos\\SAT\\CadastroSAT\\CadastroSAT.Server\\Program.cs",
+              "RelativeToolTip": "CadastroSAT.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:28:43.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@CadastroSAT.Server_HostAddress = http://localhost:5171
+
+GET {{CadastroSAT.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

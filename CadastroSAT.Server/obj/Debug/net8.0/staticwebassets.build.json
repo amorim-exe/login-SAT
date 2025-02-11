@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "7H0O0uFLopVieVlqAS9QAt11wpk84v/o5xIA+U8q5nA=",
+  "Source": "CadastroSAT.Server",
+  "BasePath": "_content/CadastroSAT.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\projetos\\SAT\\CadastroSAT\\cadastrosat.client\\cadastrosat.client.esproj",
+      "Version": 2,
+      "Source": "cadastrosat.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
