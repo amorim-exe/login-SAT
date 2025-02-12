@@ -4,6 +4,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { HttpClient } from '@angular/common/http';
+import { AuthService } from '../services/auth.service';
 
 @Component({
   selector: 'app-login',
@@ -19,7 +20,7 @@ export class LoginComponent {
 
   statusMessage: string = '';
 
-  constructor(private http: HttpClient, private router: Router) {}
+  constructor(private http: HttpClient, private router: Router, private authService: AuthService) {}
 
   validateForm() {
     if (!this.user.username || !this.user.password) {
@@ -38,6 +39,7 @@ export class LoginComponent {
       .subscribe(
         (response) => {
           if (response === 'Login bem-sucedido.') {
+            this.authService.login();
             this.router.navigate(['/success']);
           } else {
             this.statusMessage = 'Usuário ou senha inválidos.';
@@ -49,7 +51,6 @@ export class LoginComponent {
         }
       );
   }
-
   navigateToCadastro() {
     this.router.navigate(['/cadastro']);
   }

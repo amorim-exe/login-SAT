@@ -4,6 +4,7 @@ import { HttpClient } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { AuthService } from '../services/auth.service';
 
 @Component({
   selector: 'app-cadastro',
@@ -20,7 +21,7 @@ export class CadastroComponent {
 
   statusMessage: string = '';
 
-  constructor(private http: HttpClient, private router: Router) {}
+  constructor(private http: HttpClient, private router: Router, private authService: AuthService) {}
 
   validateForm() {
     if (!this.user.username || !this.user.password || !this.user.confirmPassword) {
@@ -49,6 +50,7 @@ export class CadastroComponent {
           console.log('Resposta da API:', response);
           if (response === 'Usuário cadastrado com sucesso.') {
             this.statusMessage = 'Usuário cadastrado com sucesso!';
+            this.authService.login();
             this.router.navigate(['/success']);
           }
         },
@@ -62,5 +64,8 @@ export class CadastroComponent {
           }
         }
       );
+  }
+  navigateToLogin() {
+    this.router.navigate(['/login']);
   }
 }

@@ -172,3 +172,4 @@ D:\projetos\SAT\CadastroSAT\CadastroSAT.Server\obj\Debug\net8.0\refint\CadastroS
 D:\projetos\SAT\CadastroSAT\CadastroSAT.Server\obj\Debug\net8.0\CadastroSAT.Server.pdb
 D:\projetos\SAT\CadastroSAT\CadastroSAT.Server\obj\Debug\net8.0\CadastroSAT.Server.genruntimeconfig.cache
 D:\projetos\SAT\CadastroSAT\CadastroSAT.Server\obj\Debug\net8.0\ref\CadastroSAT.Server.dll
+D:\projetos\SAT\CadastroSAT\CadastroSAT.Server\obj\Debug\net8.0\CadastroSAT.Server.sourcelink.json
